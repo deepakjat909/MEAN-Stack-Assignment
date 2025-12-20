@@ -44,9 +44,31 @@ The database is responsible for storing and managing application data such as us
 ---
 
 ## Q3. Client–Server Communication
-(Explanation here)
 
-![Client Server Diagram](images/client-server-communication.png)
+| Client | Server |
+|--------|--------|
+| Sends request to the server | Receives and processes the request |
+| Runs in the browser | Runs on a remote machine |
+| Sends URL or form data | Applies application logic |
+| Waits for response | Sends response back |
+
+**Steps:**
+- Client sends a request (HTTP).
+- Server processes the request.
+- Server sends a response (HTML / JSON / Data).
+- Client displays the result to the user.
+
+**Neat Diagram:**
+[ Client / Browser ]
+        |
+        |  HTTP Request
+        v
+[ Server ]
+        |
+        |  HTTP Response
+        v
+[ Client / Browser ]
+
 
 ---
 
