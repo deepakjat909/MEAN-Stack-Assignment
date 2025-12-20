@@ -1,5 +1,8 @@
 # MEAN-Stack-Assignment
 
+<span style="color:red;">Important Point</span>
+
+
 ## Q1. What is Web Development?
 
 Web Development is the process of designing, building, and maintaining websites and web-based applications that run on the internet. It involves creating web pages that are visually attractive, functional, secure, and easy to use. Web development ensures that users can access information, submit data, and interact with applications through a web browser.
