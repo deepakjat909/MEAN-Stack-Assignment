@@ -16,11 +16,9 @@ Backend development handles the server-side logic of a website. It processes use
 The database is responsible for storing and managing application data such as user details, login credentials, and records. Databases ensure data can be stored securely and retrieved efficiently.
 
 ### **Example:**
-Login page and buttons → Frontend
-
-Login verification logic → Backend
-
-Saving user details → Database
+- Login page and buttons → Frontend
+- Login verification logic → Backend
+- Saving user details → Database
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/917a9c2b-1f13-472a-90a7-6f4c6b6aaaf0" />
 
@@ -28,7 +26,7 @@ Saving user details → Database
 
 ## Q2. Difference between Frontend and Backend
 
-### Frontend	              Backend
+### | Frontend	              Backend |
   Visible to the user	Works behind the scenes
  Runs in the browser	Runs on the server
  HTML, CSS, JavaScript	Node.js, PHP, Python
