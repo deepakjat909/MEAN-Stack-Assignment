@@ -40,12 +40,6 @@ The database is responsible for storing and managing application data such as us
 - Checking username and password → Backend
 
 
-
-### Example:
-
-- Designing the login form → Frontend
-- Checking username and password → Backend
-
 ---
 
 ## Q3. Client–Server Communication
