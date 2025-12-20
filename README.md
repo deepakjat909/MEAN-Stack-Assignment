@@ -6,18 +6,20 @@ Web Development is the process of designing, building, and maintaining websites 
 
 **Web development generally consists of three major components:**
 
-1 **Frontend Development:**
+### **1. Frontend Development:**
 This part focuses on the user interface and user experience. It includes everything that users see and interact with on their screen, such as layouts, buttons, forms, and navigation menus. Technologies like HTML, CSS, and JavaScript are commonly used.
 
-2 **Backend Development:**
+### **2. Backend Development:**
 Backend development handles the server-side logic of a website. It processes user requests, performs calculations, applies business rules, and communicates with the database. Technologies such as Node.js, PHP, and Python are used for backend development.
 
-3 **Database Management:**
+### **3. Database Management:**
 The database is responsible for storing and managing application data such as user details, login credentials, and records. Databases ensure data can be stored securely and retrieved efficiently.
 
-**Example:**
+### **Example:**
 Login page and buttons → Frontend
+
 Login verification logic → Backend
+
 Saving user details → Database
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/917a9c2b-1f13-472a-90a7-6f4c6b6aaaf0" />
