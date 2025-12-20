@@ -26,16 +26,38 @@ Saving user details → Database
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-Q2. Difference between Frontend and Backend (with examples)
-           **Frontend**	                **Backend**
-        Visible to the user	   Works behind the scenes
-        Runs in the browser	   Runs on the server
-        HTML, CSS, JavaScript	   Node.js, PHP, Python
-        Focuses on UI/UX design	   Focuses on data processing
+## Q2. Difference between Frontend and Backend
 
-**Example:**
-Designing the login form → Frontend
-Checking username and password → Backend
+### Frontend	              Backend
+  Visible to the user	Works behind the scenes
+ Runs in the browser	Runs on the server
+ HTML, CSS, JavaScript	Node.js, PHP, Python
+ Focuses on UI/UX design	Focuses on data processing
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/7bd3b2d9-4f47-4c1d-b5d4-5a84ebe6627b" />
+### Example:
+
+- Designing the login form → Frontend
+- Checking username and password → Backend
+
+---
+
+## Q3. Client–Server Communication
+(Explanation here)
+
+![Client Server Diagram](images/client-server-communication.png)
+
+---
+
+## Q4. What is MEAN Stack?
+(Explanation here)
+
+![MEAN Stack](images/mean-stack-components.png)
+
+---
+
+## Q5. Angular CLI Installation
+```bash
+npm install -g @angular/cli
+
+
 
