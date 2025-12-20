@@ -26,12 +26,13 @@ The database is responsible for storing and managing application data such as us
 
 ## Q2. Difference between Frontend and Backend
 
-### | Frontend |	             | Backend |
-    |-----------------|-------------------|
-   Visible to the user 	Works behind the scenes 
-  | Runs in the browser	 | Runs on the server |
- | HTML, CSS, JavaScript |	Node.js, PHP, Python |
- | Focuses on UI/UX design |	Focuses on data processing |
+### | Frontend | Backend |
+|----------|---------|
+| Visible to the user | Works behind the scenes |
+| Runs in the browser | Runs on the server |
+| HTML, CSS, JavaScript | Node.js, PHP, Python |
+| Focuses on UI/UX design | Focuses on data processing |
+
 
 ### Example:
 
