@@ -22,9 +22,8 @@ The database is responsible for storing and managing application data such as us
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/917a9c2b-1f13-472a-90a7-6f4c6b6aaaf0" />
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+---
 
-## Q2. Difference between Frontend and Backend
 
 ## Q2. Difference between Frontend and Backend
 
@@ -38,6 +37,8 @@ The database is responsible for storing and managing application data such as us
 **Example:**
 - Designing the login form → Frontend  
 - Checking username and password → Backend
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/499b1048-0c28-421f-9a9e-43527ee54949" />
 
 
 ---
