@@ -59,7 +59,7 @@ The database is responsible for storing and managing application data such as us
 - Client displays the result to the user.
 
 **Neat Diagram:**
-[ Client / Browser ]
+[ Client / Browser ] 
         |
         |  HTTP Request
         v
@@ -69,19 +69,76 @@ The database is responsible for storing and managing application data such as us
         v
 [ Client / Browser ]
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/42614ac6-fb00-404c-b87d-e3cec063957d" />
+
+
 
 ---
 
 ## Q4. What is MEAN Stack?
-(Explanation here)
 
-![MEAN Stack](images/mean-stack-components.png)
+MEAN Stack is a full-stack JavaScript technology used to develop modern web applications. It allows developers to use JavaScript for both frontend and backend development, which makes the development process simple and efficient.
+
+| Letter | Technology | Description |
+|--------|------------|-------------|
+| M | MongoDB | NoSQL database used to store application data |
+| E | Express.js | Backend framework for handling requests and routes |
+| A | Angular | Frontend framework for building user interfaces |
+| N | Node.js | Server-side runtime environment |
+
+**Key Point:**
+Using a single programming language (JavaScript) across the entire stack makes development faster, scalable, and easier to manage.
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/48b9b8b4-09e6-48d2-8515-9e223e67b92b" />
+
 
 ---
 
-## Q5. Angular CLI Installation
-```bash
+## Q5. Install Angular CLI using npm
+
+Angular CLI is a command-line tool that helps developers create, build, and manage Angular applications efficiently.
+
+To install Angular CLI, use the following command in the terminal or command prompt:
+
 npm install -g @angular/cli
+
+| Command Part | Description |
+|-------------|-------------|
+| npm | Node Package Manager |
+| -g | Installs the package globally |
+| @angular/cli | Angular Command Line Interface |
+
+To verify the installation, use the following command:
+
+ng version
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d0870a57-42e4-4e4c-8cef-65e9a5f45a2f" />
+
+---
+
+## Q6. MEAN Architecture Workflow
+
+The MEAN architecture defines how data flows between the client, server, and database in a MEAN Stack web application.
+
+**Workflow Explanation:**
+- Angular (Client) takes input from the user and sends a request.
+- Express.js with Node.js (Server) receives and processes the request.
+- MongoDB (Database) stores and retrieves application data.
+- The processed response is sent back to the client.
+
+**Architecture Diagram:**
+[ Client (Angular) ]
+          |
+          v
+[ Server (Express + Node.js) ]
+          |
+          v
+[ Database (MongoDB) ]
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/39851e83-6179-45a5-89eb-ed56979b672b" />
+
+
 
 
 
