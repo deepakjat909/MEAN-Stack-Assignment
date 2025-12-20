@@ -1,15 +1,18 @@
 # MEAN-Stack-Assignment
 
 **Q1. What is Web Development?**
-Web Development refers to the process of creating, building, and maintaining websites and web applications. It includes everything related to a website such as its design, functionality, and database management.
+Web Development is the process of designing, building, and maintaining websites and web-based applications that run on the internet. It involves creating web pages that are visually attractive, functional, secure, and easy to use. Web development ensures that users can access information, submit data, and interact with applications through a web browser.
 
-Web development is mainly divided into three parts:
+**Web development generally consists of three major components:**
 
-**Frontend** – The part of the website that users see and interact with on the screen.
+**Frontend Development:**
+This part focuses on the user interface and user experience. It includes everything that users see and interact with on their screen, such as layouts, buttons, forms, and navigation menus. Technologies like HTML, CSS, and JavaScript are commonly used.
 
-**Backend** – The server-side logic that processes requests and manages data.
+**Backend Development:**
+Backend development handles the server-side logic of a website. It processes user requests, performs calculations, applies business rules, and communicates with the database. Technologies such as Node.js, PHP, and Python are used for backend development.
 
-**Database** – The place where application data is stored and retrieved.
+**Database Management:**
+The database is responsible for storing and managing application data such as user details, login credentials, and records. Databases ensure data can be stored securely and retrieved efficiently.
 
 **Example:**
 Login page and buttons → Frontend
