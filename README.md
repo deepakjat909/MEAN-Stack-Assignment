@@ -1,6 +1,12 @@
 # MEAN-Stack-Assignment
 
-<span style="color:red;">Important Point</span>
+<h2 style="color:#1f6feb;">Q4. What is MEAN Stack?</h2>
+
+<p>
+<span style="color:green;">MEAN Stack</span> is a full-stack JavaScript technology used to build
+<span style="color:blue;">web applications</span>.
+</p>
+
 
 
 ## Q1. What is Web Development?
