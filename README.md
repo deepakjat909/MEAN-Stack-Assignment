@@ -14,6 +14,8 @@ Saving user details → Database
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/917a9c2b-1f13-472a-90a7-6f4c6b6aaaf0" />
 
+**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 Q2. Difference between Frontend and Backend (with examples)
            **Frontend**	                **Backend**
         Visible to the user	   Works behind the scenes
